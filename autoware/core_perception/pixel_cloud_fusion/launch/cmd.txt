@@ -1,0 +1,2 @@
+roslaunch pixel_cloud_fusion2.launch image_src:=/kitti/camera_color_left/image_raw camera_info_src:=/kitti/camera_color_left/camera_info fused_output_topic:=/points_fused2
+
